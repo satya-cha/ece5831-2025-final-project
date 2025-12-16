@@ -56,5 +56,5 @@ ece5831-2025-final-project/
 
 ## Course Information
 - **Course:** ECE 5831 – Pattern Recognition and Neural Networks  
-- **Term:** 2025  
+- **Term:** Fall 2025  
 - **Final Project Submission**
