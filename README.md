@@ -4,9 +4,7 @@
 Traffic Sign Classification with Context-Aware Scene Description using Deep Learning
 
 ## Overview
-This project addresses the robustness limitations of traffic sign classification systems under challenging conditions such as noise, occlusion, and low-confidence predictions. To enhance classification reliability, we propose a pipeline that integrates image reconstruction with a multi-modal learning framework. The approach combines reconstructed visual information and textual cues to improve recognition performance when conventional classifiers exhibit low confidence.
-
-The project is implemented using Python and Jupyter Notebook, and all experiments are reproducible using the provided notebook.
+This project investigates traffic sign classification and context-aware scene description using deep learning techniques. Traffic signs are first extracted from annotated street-level images and classified using convolutional neural network backbones. The predicted sign-level information is then combined with global scene understanding to generate human-readable, context-aware descriptions of driving environments. The proposed pipeline emphasizes interpretability by integrating localized traffic sign recognition with holistic scene-level reasoning, and its effectiveness is demonstrated through comparative evaluation of multiple CNN models and an end-to-end inference example.
 
 ---
 
