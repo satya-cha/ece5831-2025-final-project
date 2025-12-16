@@ -40,8 +40,8 @@ ece5831-2025-final-project/
 ## Demo and Presentation Materials
 
 - **YouTube Demo Video:**  
-  https://youtu.be/N2LZOy5PZlY
-
+  https://youtu.be/VyeGPkVp5Pw
+  
 - **Pre-recorded Presentation Video:**  
   https://drive.google.com/drive/folders/1NtQQG2bSREA-I_ZpN4BpwUIvW6s4Iqes
 
