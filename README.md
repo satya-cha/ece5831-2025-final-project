@@ -43,10 +43,10 @@ ece5831-2025-final-project/
   https://youtu.be/VyeGPkVp5Pw
   
 - **Pre-recorded Presentation Video:**  
-  https://drive.google.com/drive/folders/1NtQQG2bSREA-I_ZpN4BpwUIvW6s4Iqes
+  https://drive.google.com/drive/u/1/folders/1SWMiKlFCQuPwf_ag4E6zOYZh2R6y8dh4
 
 - **Presentation Slides:**  
-  https://drive.google.com/drive/folders/1NtQQG2bSREA-I_ZpN4BpwUIvW6s4Iqes
+  https://drive.google.com/drive/u/1/folders/1SWMiKlFCQuPwf_ag4E6zOYZh2R6y8dh4
 
 - **Final Report:**  
   https://drive.google.com/drive/u/1/folders/1z43EuHI_Tj47Tu3vQXvdLXIA_LFWfv7I
